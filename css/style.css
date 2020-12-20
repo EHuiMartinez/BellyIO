@@ -1,0 +1,21 @@
+body {
+
+    color:black;
+
+}
+
+.jumbotron {
+    background-image: url("/images/bellybact.jpg");
+    background-size: 50% 150%;
+    text-align: center;
+  }
+
+#jumboTitle {
+    text-align: center;
+    color: red;
+}
+
+#subTitle {
+    text-align: center;
+    color: darkred;
+}
